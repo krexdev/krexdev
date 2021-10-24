@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=krex.dev&style=for-the-badge&url=https%3A%2F%2Fkrex.dev)](https://krex.dev)
 
-## I'm a Student, Developer!
+## I'm a Student and Developer!
 
 - 🌱 I’m currently learning everything Mern Stack
 - 👯 I’m looking to collaborate with other content creators
