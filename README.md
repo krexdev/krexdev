@@ -34,5 +34,5 @@
 <br />
 
 
-[website]: https://krex.dev/" target="_blank"
+[website]: https://krex.dev/
 [instagram]: https://www.instagram.com/krexdev
