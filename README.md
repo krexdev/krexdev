@@ -4,7 +4,6 @@
 
 ## I'm a Student, Developer!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][website]!
 - 🌱 I’m currently learning everything Mern Stack
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Lern more about coding and technologies
