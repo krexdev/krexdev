@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer!
 
-- 🌱 I’m currently more about the Stm32 ecosystem
+- 🌱 I’m currently more about the STM32 ecosystem
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about coding and technologies
 
