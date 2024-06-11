@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently more about the STM32 ecosystem
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about coding and technologies
+- 🥅 2024 Goals: Learn more about coding and technologies
 
 <br />
 
